@@ -40,7 +40,7 @@ const Login = ({ handleLogin }) => {
             type="password"
             placeholder="Enter password"
           />
-          <button className="mt-5 bg-emerald-600 text-xl py-3 px-5 rounded-full mt-4 cursor-pointer">
+          <button className="mt-5 bg-emerald-600 text-xl py-3 px-5 rounded-full cursor-pointer">
             Log in
           </button>
         </form>
